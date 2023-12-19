@@ -4,3 +4,5 @@
 # used libraries - tkinter , json 
 # screenshot
 ![Getting Started](https://code-projects.org/wp-content/uploads/2021/04/pg.png)
+
+# tkinter installation -> pip intstall tk
